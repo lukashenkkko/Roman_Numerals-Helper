@@ -1,0 +1,3 @@
+﻿  Roman Numerals Helper.cpp
+C:\Code projects\Roman Numerals Helper\Roman Numerals Helper.cpp(81,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Roman Numerals Helper.vcxproj -> C:\Code projects\Roman Numerals Helper\x64\Debug\Roman Numerals Helper.exe
